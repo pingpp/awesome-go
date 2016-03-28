@@ -29,4 +29,4 @@ A curated list of awesome Go frameworks, libraries and software
 
 *Libraries for configuration parsing*
 
-* [yaml](https://github.com/go-yaml/yaml)
+* [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
