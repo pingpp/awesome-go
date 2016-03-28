@@ -9,7 +9,7 @@ A curated list of awesome Go frameworks, libraries and software
     - [Distributed Systems](#Distributed Systems)
     - [Configuration](#configuration)
     - [Logging](#Logging)
-    - [Linux](#Linux)
+    - [Daemon](#Daemon)
     - [im](#im)
 
 - [Tools](#tools)
@@ -63,7 +63,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [tail](https://github.com/hpcloud/tail) - A Go package striving to emulate the features of the BSD tail program.
 * [xlog](https://github.com/rs/xlog) - A structured logger for `net/context` aware HTTP handlers with flexible dispatching.
 
-## Linux
+## Daemon
 * [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
 
 ## im
