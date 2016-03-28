@@ -25,7 +25,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [protorpc](https://github.com/chai2010/protorpc) - Google Protocol Protobufs RPC for Go.
 * [proto_http_rpc](https://github.com/Terry-Mao/protorpc) - golang gogoprotobuf rpc based net/http.
+* [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system https://coreos.com/etcd/docs/latest/
 * [raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol.
+* [zookeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
 ## Configuration
 
