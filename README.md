@@ -9,7 +9,10 @@ A curated list of awesome Go frameworks, libraries and software
     - [Distributed Systems](#Distributed Systems)
     - [Configuration](#configuration)
     - [DB](#db)
+       - [orm](#orm)
+       - [ping++](#ping++)
     - [Logging](#Logging)
+    - [mq](#mq)
     - [im](#im)
     - [cloud](#cloud)
 
@@ -68,6 +71,13 @@ A curated list of awesome Go frameworks, libraries and software
 * [tail](https://github.com/hpcloud/tail) - A Go package striving to emulate the features of the BSD tail program.
 * [xlog](https://github.com/rs/xlog) - A structured logger for `net/context` aware HTTP handlers with flexible dispatching.
 
+## mq
+
+* [kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
+* [kafka client](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8 and 0.9 https://shopify.github.io/sarama
+* [Kafka Load-balancing client](https://github.com/wvanbergen/kafka)
+* [NSQ](https://github.com/nsqio/nsq) - A realtime distributed messaging platform http://nsq.io/
+* [nsq client](https://github.com/nsqio/go-nsq) - The official Go package for NSQ
 
 ## im
 
