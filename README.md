@@ -10,13 +10,12 @@ A curated list of awesome Go frameworks, libraries and software
     - [Configuration](#configuration)
     - [Logging](#Logging)
     - [Linux](#Linux)
+    - [im](#im)
 
 - [Tools](#tools)
     - [Package Management](#Package Management)
 
 - [Server Applications](#server-applications)
-    - [goim](https://github.com/Terry-Mao/goim) 
-    - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 
 - [Resources](#resources)
 
@@ -66,6 +65,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Linux
 * [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
+
+## im
+
+* [goim](https://github.com/Terry-Mao/goim) 
+* [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 
 # tools
 
