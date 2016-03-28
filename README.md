@@ -9,9 +9,10 @@ A curated list of awesome Go frameworks, libraries and software
     - [Distributed Systems](#Distributed Systems)
     - [Configuration](#configuration)
     - [Logging](#Logging)
+    - [Linux](#Linux)
 
 - [Tools](#tools)
-
+    - [Package Management](#Package Management)
 
 - [Server Applications](#server-applications)
 
@@ -33,7 +34,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 * [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 
-## Logging
+## Logging(待整理)
 
 *Libraries for generating and working with log files.*
 
@@ -58,3 +59,14 @@ A curated list of awesome Go frameworks, libraries and software
 * [stdlog](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
 * [tail](https://github.com/hpcloud/tail) - A Go package striving to emulate the features of the BSD tail program.
 * [xlog](https://github.com/rs/xlog) - A structured logger for `net/context` aware HTTP handlers with flexible dispatching.
+
+## Linux
+* [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
+
+# tools
+
+## Package Management
+
+*Libraries for package and dependency management.*
+
+* [godep](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
