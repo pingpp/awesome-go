@@ -18,7 +18,7 @@ A curated list of awesome Go frameworks, libraries and software
 - [Server Applications](#server-applications)
 
 - [Resources](#resources)
-
+    - [Coding Standard](code-standard)
 
 ## Distributed Systems
 
@@ -83,3 +83,12 @@ A curated list of awesome Go frameworks, libraries and software
 *Libraries for package and dependency management.*
 
 * [godep](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
+
+
+# resources
+
+## code-standard
+
+* [effective_go](https://golang.org/doc/effective_go.html) - Effective Go
+* [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - This page collects common comments made during reviews of Go code
+
