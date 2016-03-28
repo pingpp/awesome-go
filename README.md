@@ -9,7 +9,6 @@ A curated list of awesome Go frameworks, libraries and software
     - [Distributed Systems](#Distributed Systems)
     - [Configuration](#configuration)
     - [Logging](#Logging)
-    - [Daemon](#Daemon)
     - [im](#im)
     - [cloud](#cloud)
 
@@ -64,9 +63,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [tail](https://github.com/hpcloud/tail) - A Go package striving to emulate the features of the BSD tail program.
 * [xlog](https://github.com/rs/xlog) - A structured logger for `net/context` aware HTTP handlers with flexible dispatching.
 
-## Daemon
-
-* [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
 
 ## im
 
@@ -77,6 +73,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google http://kubernetes.io
 * [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem - (this is only a public mirror, see the README for contributing) https://gluster.org
+* [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
+* [docker](https://github.com/docker/docker) - Docker - the open-source application container engine http://www.docker.com
 
 # tools
 
